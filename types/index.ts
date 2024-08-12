@@ -8,7 +8,7 @@ export interface CustomButtonProps {
 }
 
 export interface CustomFilterProps {
-    title: string
+    title: string,
 }
 
 export interface SearchManufacturerProps {
