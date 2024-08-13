@@ -25,6 +25,8 @@ export const manufacturers = [
     "Land Rover",
     "Lexus",
     "Lincoln",
+    "Mahindra",
+    "Maruti Suzuki",
     "Maserati",
     "Mazda",
     "McLaren",
