@@ -1,4 +1,4 @@
-# DRIVE IT :
+# CarHub :
     -> An amazing Next Js application from where you can search, book,
        rent a car of your own choice.
        
